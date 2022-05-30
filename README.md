@@ -1,2 +1,2 @@
-# btre-project
-Brad traversy udemy course project
+# DevSearch
+#### Udemy course to search developers.
